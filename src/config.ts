@@ -1,7 +1,7 @@
 import { ServerOptions } from './types/ServerOptions';
 
 export default {
-  secretKey: 'THISISMYSECURETOKEN',
+  secretKey: 'RAHASIA_P3D_30111998',
   host: 'http://localhost',
   port: '21465',
   deviceName: 'WppConnect',
